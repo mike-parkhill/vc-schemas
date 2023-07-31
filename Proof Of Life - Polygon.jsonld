@@ -1,0 +1,31 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "ProofOfLifePolygon": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:2bf3559c-499e-4116-9163-76443dcc9f7d#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "email": {
+                        "@id": "polygon-vocab:email",
+                        "@type": "xsd:string"
+                    },
+                    "full-name": {
+                        "@id": "polygon-vocab:full-name",
+                        "@type": "xsd:string"
+                    },
+                    "dob": {
+                        "@id": "polygon-vocab:dob",
+                        "@type": "xsd:integer"
+                    }
+                },
+                "@id": "urn:uuid:36f2c91a-52ed-431f-9d73-3aef42a2ae1a"
+            }
+        }
+    ]
+}
