@@ -1,7 +1,8 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://example.com/path/to/file/context.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/mike-parkhill/vc-schemas/main/Proof%20Of%20Life%20-%20Polygon.jsonld",
+            "jsonContext": "https://raw.githubusercontent.com/mike-parkhill/vc-schemas/main/Proof%20Of%20Life%20-%20Polygon.json"
         },
         "type": "ProofOfLifePolygon",
         "version": "1"
